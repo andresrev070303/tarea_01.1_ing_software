@@ -1,1 +1,1 @@
-alert("Hola desde Javascript");
+alert("Presiona OK si estas listo para empezar con javascript");
